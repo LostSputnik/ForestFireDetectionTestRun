@@ -27,3 +27,6 @@ dataset.tar.gz
 *.pkl
 
 nohup.out
+
+.venv
+2-Zenmuse_X4S_2.mp4
